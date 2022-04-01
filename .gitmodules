@@ -1,0 +1,3 @@
+[submodule "QR-code-component"]
+	path = QR-code-component
+	url = https://github.com/DanielCodex/QR-code-component
